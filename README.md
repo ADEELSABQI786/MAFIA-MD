@@ -13,8 +13,7 @@
     <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=MAFIA-MD-+v3.0+MultiDevice;Developed+by+MAFIAADEEL;Give+star+and+forks+this+Repo+🌟" alt="Readme">
   </a>
 </p>
-
-<a><img src='https://ibb.co/Mx59p8tt'/></a>
+<a><img src='https://i.ibb.co/Mx59p8tt/MAFIA-MD.jpg'/></a>
 
 
 <img src='https://i.imgur.com/LyHic3i.gif'/></a>
