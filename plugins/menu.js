@@ -48,15 +48,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -118,15 +118,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -193,15 +193,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -249,15 +249,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -305,15 +305,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -356,15 +356,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -415,15 +415,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -464,15 +464,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -517,15 +517,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -567,15 +567,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
@@ -603,13 +603,13 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     try {
         let dec = `╭━━〔 *𝐁𝐔𝐆 𝐌𝐄𝐍𝐔* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• 𝑪𝑹𝑨𝑺𝑯(+9218****)
-┃◈┃• 𝑿𝑫(+9218****)
-┃◈┃• 𝑶𝑻𝑷𝑳𝑶𝑪𝑲(+92318****)
+┃◈┃• 𝑪𝑹𝑨𝑺𝑯(+9213****)
+┃◈┃• 𝑿𝑫(+9213****)
+┃◈┃• 𝑶𝑻𝑷𝑳𝑶𝑪𝑲(+92313****)
 ┃◈┃• 𝑻𝑬𝑴𝑷𝑩𝑨𝑵(+92*****)
 ┃◈┃• 𝑮𝑪𝑪𝑹𝑨𝑺𝑯(𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┃◈┃• 𝑮𝑪𝑪𝑹𝑨𝑺𝑯(𝑼𝑺𝑬 𝑻𝑯𝑰𝑺 𝑪𝑴𝑫 𝑰𝑵 𝑮𝑪)
-┃◈┃• 𝑩𝑼𝑮(+9218******)
+┃◈┃• 𝑩𝑼𝑮(+9213******)
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > ${config.CAPTION}`;
@@ -617,15 +617,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://ibb.co/NdSPRLYD` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: '𓆩𝑨𝑾𝑨𝑰𝑺𝑿𝑫𓆪',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: 'ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ👑',
                         serverMessageId: 143
                     }
                 }
