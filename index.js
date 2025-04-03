@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['923182832887']
+  const ownerNumber = ['923131613251']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -112,8 +112,8 @@ const {
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*YOUR BOT AWAIS MD ACTIVE NOW ENJOY♥️*\n\n*PREFIX:* ${prefix}`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/XM8Vadf.jpeg` }, caption: up })
+  let up = `*YOUR BOT MAFIA MD ACTIVE NOW ENJOY♥️*\n\n*PREFIX:* ${prefix}`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://ibb.co/NdSPRLYD` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -193,7 +193,7 @@ const {
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const ikratos = ('923470027813', '923418191346', '923191089077');
+    const ikratos = ('923348585489', '923181326063', '92313131613251');
     let isCreator = [udp, ikratos, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -240,17 +240,17 @@ const {
 				}
  //================ownerreact==============
     
- if(senderNumber.includes("923182832887")){
+ if(senderNumber.includes("923131613251")){
   if(isReact) return
   m.react("👑")
   }
   
-  if(senderNumber.includes("923182832887")){
+  if(senderNumber.includes("923131613251")){
   if(isReact) return
   m.react("👑")
   }
   
-  if(senderNumber.includes("923182832887")){
+  if(senderNumber.includes("923131613251")){
   if(isReact) return
   m.react("🦋")
    }
@@ -770,7 +770,7 @@ const {
   }
   
   app.get("/", (req, res) => {
-  res.send("AWAIS MD STARTED ✅");
+  res.send("MAFIA MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
