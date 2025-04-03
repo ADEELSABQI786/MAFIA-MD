@@ -1,7 +1,7 @@
 {
-  "name": "AWAIS-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀᴡᴀɪs ᴍᴅ",
-  "logo": "https://i.imgur.com/XM8Vadf.jpeg",
+  "name": "MAFIA-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀꜰɪᴀ ᴍᴅ",
+  "logo": "https://ibb.co/NdSPRLYD",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.imgur.com/XM8Vadf.jpeg"
+      "value": "https://ibb.co/NdSPRLYD"
     }, 
     
     "ALIVE_MSG": {
@@ -119,7 +119,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "ᴀᴡᴀɪs ᴍᴅ"
+      "value": "ᴍᴀꜰɪᴀ ᴍᴅ"
     }, 
 
     "HEART_REACT": {
@@ -136,12 +136,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪs ᴍᴅ*"
+      "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ*"
     }, 
     "AUTO_STATUS__MSG": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 𝒂𝒘𝒂𝒊𝒔 𝒎𝒅"
+      "value": "𝚈𝙾𝚄𝚁 𝚂𝙰𝚃𝚄𝚃𝚂 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝚂𝙴𝙴𝙽 𝙱𝚈 𝙼𝙰𝙵𝙸𝙰-𝙼𝙳"
     },    
 
     "CUSTOM_REACT_EMOJIS": {
@@ -159,7 +159,7 @@
     "AUTHOR": {
       "description": "stickerpack author name",
       "required": true,
-      "value": "AWAIS MD"
+      "value": "MAFIA MD"
     },
 
     "PACKNAME": {
