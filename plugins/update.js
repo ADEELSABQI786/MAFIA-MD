@@ -19,10 +19,10 @@ cmd({
   }  
 
   try {  
-    await reply("```🔍 Checking for AWAIS-MD-V3 updates...```\n");  
+    await reply("```🔍 Checking for MAFIA-MD-V2 updates...```\n");  
       
     // Get latest commit from GitHub  
-    const { data: commitData } = await axios.get("https://api.github.com/repos/Awais-star-a11y/AWAIS-MD-V3/commits/main");  
+    const { data: commitData } = await axios.get("https://api.github.com/ADEELSABQI786/MAFIA-MD/commits/main");  
     const latestCommitHash = commitData.sha;  
 
     // Get current commit hash  
@@ -35,14 +35,14 @@ cmd({
     }  
 
     if (latestCommitHash === currentHash) {  
-      return reply("```✅ Your AWAIS-MD-V3 bot is already up-to-date!```\n");  
+      return reply("```✅ Your MAFIA-MD-V2 bot is already up-to-date!```\n");  
     }  
 
-    await reply("```AWAIS-MD-V3 Bot Updating...🚀```\n");  
+    await reply("```MAFIA-MD-V2 Bot Updating...🚀```\n");  
       
     // Download latest code  
     const zipPath = path.join(__dirname, "latest.zip");  
-    const { data: zipData } = await axios.get("https://github.com/Awais-star-a11y/AWAIS-MD-V3/archive/main.zip", { responseType: "arraybuffer" });  
+    const { data: zipData } = await axios.get("https://github.com/ADEELSABQI786/MAFIA-MD/archive/main.zip", { responseType: "arraybuffer" });  
     fs.writeFileSync(zipPath, zipData);  
 
     await reply("```📦 Extracting the latest code...```\n");  
@@ -55,7 +55,7 @@ cmd({
     await reply("```🔄 Replacing files...```\n");  
       
     // Copy updated files, skipping config.js and app.json  
-    const sourcePath = path.join(extractPath, "AWAIS-MD-V3-main");  
+    const sourcePath = path.join(extractPath, "MAFIA-MD-V2-main");  
     const destinationPath = path.join(__dirname, '..');  
     copyFolderSync(sourcePath, destinationPath);  
 
