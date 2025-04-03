@@ -43,7 +43,7 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://awais-md-pair.onrender.com)
+1. Link your WhatsApp by [`PAIR CODE`](https://khanmdx.onrender.com)
 2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
 3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/ADEELSABQI786/MAFIA-MD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
