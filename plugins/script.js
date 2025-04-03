@@ -13,13 +13,13 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *CREW AWAIS*
+*|* *MAFIA ADEEL*
 
-> *AWAIS MD REPO:*
-*|* *https://github.com/Awais-star-a11y/AWAIS-MD-V3*
+> *MAFIA MD REPO:*
+*|* *https://github.com/ADEELSABQI786/MAFIA-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029VashGieHAdNP11OHXH3P*
+*|* *https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R*
 *╰──────────────●●►*
 
 > *update command Done*
@@ -31,16 +31,16 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '12036323288171807@newsletter',
-      newsletterName: "UMAR",
+      newsletterJid: '120363300351654980@newsletter',
+      newsletterName: "ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟ",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'AWAIS MD',
+title: 'MAFIA MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Awais-star-a11y/AWAIS-MD-V3" ,
-thumbnailUrl: "https://files.catbox.moe/4rihkc.jpg" ,
+sourceUrl: "https://github.com/ADEELSABQI786/MAFIA-MD" ,
+thumbnailUrl: "https://ibb.co/NdSPRLYD" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
