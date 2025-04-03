@@ -2,7 +2,7 @@ const config = require('../config')
 const {cmd , commands} = require('../command')
 cmd({
     pattern: "about",
-    alias: ["awais","whois"], 
+    alias: ["mafia","whois"], 
     react: "👑",
     desc: "get owner dec",
     category: "main",
@@ -11,17 +11,17 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let about = `
-*╭━━〔 AWAIS-MD 〕━━┈⊷*
+*╭━━〔 MAFIA-MD 〕━━┈⊷*
 
 *👋 HELLO ${pushname}*
 
 *╰──────────────┈⊷*
 *╭━━━〔 MY ABOUT 〕━━━┈⊷*
 *┃★╭──────────────*
-*┃★│* *ᴡᴇʟᴄᴏᴍᴇ ɪᴛs ᴀᴡᴀɪs-ᴍᴅ-ʙᴏᴛ*
-*┃★│* *ᴄʀᴇᴀᴛᴇʀ : ᴀᴡᴀɪs*
-*┃★│* *ʀᴇᴀʟ ɴᴀᴍᴇ : ᴍ ᴀᴡᴀɪs*
-*┃★│* *ᴘᴜʙʟɪᴄ ɴᴀᴍᴇ : ᴀᴡᴀɪs xᴅ*
+*┃★│* *ᴡᴇʟᴄᴏᴍᴇ ɪᴛs ᴀᴅᴇᴇʟ-ᴍᴅ-ʙᴏᴛ*
+*┃★│* *ᴄʀᴇᴀᴛᴇʀ : ᴀᴅᴇᴇʟ*
+*┃★│* *ʀᴇᴀʟ ɴᴀᴍᴇ : ᴍ ᴀᴅᴇᴇʟ*
+*┃★│* *ᴘᴜʙʟɪᴄ ɴᴀᴍᴇ : ᴍᴀꜰɪᴀ xᴅ*
 *┃★│* *ᴀɢᴇ : 18 ʏᴇᴀʀ*
 *┃★│* *ᴄɪᴛʏ : ᴘᴇʀsɴᴏʟ ʜᴀɪ*
 *┃★│* *ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ᴅᴇᴠᴇʟᴘᴏʀ*
@@ -42,7 +42,7 @@ let about = `
 *╰━━━━━━━━━━━━━━━┈⊷*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪs ᴍᴅ⁸⁸⁷
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀꜰɪᴀ ᴀᴅᴇᴇʟ³³¹
 *•────────────•⟢*
 `
 
@@ -52,8 +52,8 @@ await conn.sendMessage(from,{image:{url:`https://i.imgur.com/XM8Vadf.jpeg`},capt
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363369260614615@newsletter',
-      newsletterName: 'AWAIS-MD',
+      newsletterJid: '120363300351654980@newsletter',
+      newsletterName: 'MAFIA-MD',
       serverMessageId: 999
     }
   }
